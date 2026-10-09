@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+pnpm-lock.yaml
+package-lock.json
+yarn.lock
+
+# Editor / OS
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
+*.swp
+
+# Local scratch
+*.log
+*.tmp

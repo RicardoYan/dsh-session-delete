@@ -1,0 +1,7 @@
+# Bundle layer contributed by dsh-session-delete.
+# One dual-face row: the Host half is the package entry, the browser half is
+# served from ./client through the `dsh.client` declaration. The row name must
+# equal the package name so the browser half can be located.
+- insert:
+    - id: dsh-session-delete
+      name: 'dsh-session-delete'
